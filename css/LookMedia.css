@@ -1,0 +1,66 @@
+@media only screen and (max-width: 1700px ) {
+    .nav_bar img{
+        width: 200px;
+        height: 60px;
+        margin-left: 25%;
+        margin-right: 16%;
+    }
+    header{
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 841px;
+        background-image: url("/img/LookBookTop1.png") ;
+    }
+    .head p{
+        margin-left: 60%;
+        font-size: 14px;
+    }
+    .slider{
+        max-width: 1300px;
+        background-image: url("/img/LookBookSl.png");
+        padding: 100px 50px 100px 50px;
+        margin: 0 10% 5% 10%;
+    }
+
+    .slzag{
+        color: white;
+        font-size: 50px;
+        margin-bottom: 1%;
+        text-align: center;
+    }
+    .carousel-item img{
+        width: 628px;
+        height: 408px;
+        margin-left: 22%;
+    }
+    .kvanrs{
+        width: 80%;
+        margin-left: 10%;
+    }
+
+}
+@media only screen and (max-width: 1500px ) {
+    .slider{
+        max-width: 1350px;
+        background-image: url("/img/LookBookSl.png");
+        padding: 100px 50px 100px 50px;
+        margin: 0 3% 5% 3%;
+    }
+    header{
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 742px;
+        background-image: url("/img/LookBookTop2.png") ;
+    }
+    .slzag{
+        color: white;
+        font-size: 50px;
+        margin-bottom: 1%;
+        text-align: center;
+    }
+    .carousel-item img{
+        width: 700px;
+        height: 450px;
+        margin-left: 22%;
+    }
+}

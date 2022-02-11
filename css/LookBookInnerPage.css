@@ -1,0 +1,421 @@
+.all{
+    background-color: #010104;
+    color: rgba(233, 228, 254, 1);
+    font-family: 'Urbanist', serif;
+    margin-bottom: -10%;
+}
+.nav_bar{
+    background-color: rgba(33, 25, 125, 1);
+    display: flex;
+    margin: 0 20% 2% 20%;
+    border-radius: 20px;
+}
+.nav_bar img{
+    margin-left: 23%;
+    margin-right: 15%;
+}
+.nav_bar p{
+    margin-top: 20px;
+    padding-left: 3%;
+    color: white;
+}
+.nav_bar a{
+    text-decoration: none;
+    color: white;
+}
+.nav_bar button{
+    background-color: black;
+    color: white;
+    margin-top: -8%;
+    margin-left: 3%;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+}
+.back a{
+    font-size: 18px;
+    color: rgba(208, 208, 249, 1);
+    text-decoration: none;
+    margin-left: 21%;
+}
+.back a:hover{
+    color: rgba(208, 208, 249, 1);
+    text-decoration: none;
+}
+.back a img {
+    margin-right: 0.5%;
+}
+
+
+
+
+
+
+.zagTop{
+    margin-top: 10%;
+    font-size: 96px;
+    line-height: 104px;
+    color: #fff;
+    margin-left: 15%;
+    margin-bottom: 2%;
+}
+
+.topCont{
+    margin-left: 15%;
+    margin-bottom: 4%;
+    font-size: 20px;
+    display: flex;
+}
+.topContHref{
+    font-size: 18px;
+    margin-left: 45%;
+}
+.vinovestCont{
+    width: 70%;
+    margin-left: 15%;
+    border-radius: 40px;
+    background-color: rgba(224, 202, 201, 1);
+    padding: 60px 50px 0 50px;
+    bottom: 0;
+}
+
+
+
+.cardInfo{
+    margin: 5% 0 10% 40%;
+    display: flex;
+}
+.cardZag{
+    color: rgba(208, 208, 249, 1);
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.cardInfoCont{
+    font-size: 18px;
+    color: rgba(233, 228, 254, 1);
+}
+.cardInfoFirstCol{
+    display: block;
+}
+.cardInfoSecCol{
+    margin-left: 10%;
+    display: block;
+}
+.Sec{
+    margin-top: 50%;
+}
+.fourth{
+    margin-top: 25%;
+}
+
+
+
+
+.kvanrs {
+    width: 80%;
+    margin-left: 13%;
+    display: block;
+}
+.onetwo {
+    display: flex;
+}
+.threefour{
+    margin-top: 3%;
+    display: flex;
+}
+.mat1{
+    width: 592px;
+    height: 608px;
+    border-radius: 25px;
+    background-image: url("/img/InnerPagekvadr1.png");
+}
+.mat2{
+    width: 816px;
+    height: 704px;
+    border-radius: 25px;
+    background-image: url("/img/InnerPagekvadr2.png");
+}
+.mat3{
+    margin-left: 2%;
+    width: 592px;
+    height: 704px;
+    border-radius: 25px;
+    background-image: url("/img/InnerPagekvadr3.png");
+}
+.mat{
+    margin-top: 10%;
+    margin-left: 10%;
+    line-height: 32px;
+    font-size: 18px;
+}
+.matCont{
+    margin-top: 10%;
+}
+.txt{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.txt1{
+    margin-left: 35%;
+    text-align: left;
+    font-size: 20px;
+    line-height: 32px;
+}
+.txtZag{
+    font-size: 40px;
+    margin-bottom: 3%;
+}
+.txt2{
+    margin-left: 53%;
+    margin-top: 5%;
+}
+.txt3{
+    font-size: 20px;
+    line-height: 32px;
+}
+
+
+
+
+.cust{
+    margin-bottom: 10%;
+    margin-left: 15%;
+}
+.cust1{
+    display: flex;
+}
+.custCont1{
+    border-radius: 40px;
+    width: 704px;
+    height: 704px;
+    background-image: url("/img/InnerPageCust1.png");
+}
+.custCont2{
+    border-radius: 40px;
+    width: 704px;
+    height: 704px;
+    background-image: url("/img/InnerPageCust2.png");
+    margin-left: 2%;
+}
+.custCont3{
+    margin-top: 2%;
+    border-radius: 40px;
+    width: 1440px;
+    height: 704px;
+    background-image: url("/img/InnerPageCust3.png");
+}
+
+
+
+
+.slTxt{
+    margin-left: 35%;
+    line-height: 32px;
+}
+.slZag{
+    font-size: 40px;
+    margin-bottom: 3%;
+}
+.slTxt{
+    font-size: 20px;
+    margin-bottom: 5%;
+}
+.slider{
+    background-color: black;
+    border-radius: 25px;
+    padding: 200px 50px 200px 50px;
+    margin: 5%  2%;
+}
+.carousel-item img{
+    width: 600px;
+    height: 500px;
+    margin-left: 25%;
+    border-radius: 25px;
+}
+.carousel-item{
+    display: flex;
+    width: 100px;
+}
+
+
+
+
+.rew{
+    max-width: 1440px;
+    margin-bottom: 10%;
+    margin-left: 15%;
+}
+.rew1{
+    display: flex;
+}
+.rewCont1{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.rewZag{
+    margin-bottom: 3%;
+    color: rgba(255, 255, 255, 1);
+    font-size: 40px;
+}
+.rewTxt{
+    color: rgba(233, 228, 254, 1);
+    font-size: 18px;
+    line-height: 32px;
+}
+.rewCont2{
+    width: 600px;
+    height: 500px;
+    margin-left: 12%;
+}
+.rewCont3{
+    margin-top: 2%;
+    width: 1400px;
+    height: 704px;
+    border-radius: 45px;
+}
+.exmpl {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.exmpl img {
+    height: 100%;
+    width: auto;
+}
+
+
+
+
+
+
+.BeanContTxt{
+    margin-left: 20%;
+    display: flex;
+    margin-bottom: 15%;
+}
+.Bean{
+}
+.BeanZag{
+    font-size: 64px;
+    line-height: 72px;
+    color: #FFFFFF;
+}
+.BeanTxt{
+    margin-top: 2%;
+    margin-left: 20%;
+    font-size: 18px;
+    line-height: 32px;
+    color: #E9E4FE;
+}
+
+
+
+
+.dev{
+    margin-top: 20%;
+    margin-left: 15%;
+    margin-bottom: 20%;
+}
+.devTxt{
+    margin-left: 20%;
+    font-size: 32px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+.devZag{
+    margin-top: 5%;
+    margin-left: 40%;
+    font-size: 64px;
+    line-height: 72px;
+    color: #FFFFFF;
+}
+.Unif{
+    margin-top: 15%;
+    display: flex;
+    margin-left: 5%;
+    margin-bottom: 1%;;
+}
+.unifZag{
+    margin-left: 5%;
+    font-size: 32px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+.unifHref{
+    margin-left: 50%;
+    font-size: 18px;
+    line-height: 22px;
+    color: #D0D0F9;
+}
+.devCont{
+    width: 1440px;
+    padding: 50px 50px 0 50px;
+    background: #C5ACFF;
+    border-radius: 32px;
+}
+.devCont img{
+    width: 1311px;
+}
+
+
+
+
+
+
+.qq{
+    background-image: url("/img/InnerPagerFoot.png");
+}
+footer{
+    width: 60%;
+    margin-left: 25%;
+    padding-bottom: 100px;
+}
+footer h2{
+    color: white;
+    font-size: 70px;
+}
+.footInfo{
+    margin-top: 5%;
+    padding-bottom: 1%;
+    display: block;
+    background-color: black;
+    width: 80%;
+    color: white;
+    font-size: 13px;
+    padding-top: 5%;
+    border-radius: 30px;
+}
+.matBoot1{
+    color: black;
+    width: 185px;
+    height: 54px;
+    background: #C8EBC4;
+    border-radius: 16px;
+    border: none;
+}
+.footInfo1{
+    display: flex;
+}
+.inf1{
+    margin-left: 7%;
+}
+.inf2{
+    margin-left: 30%;
+}
+.inf3{
+    margin-left: 10%;
+}
+.footBar{
+    text-align: center;
+    border-radius: 20px;
+    padding: 2px;
+    background-color: rgba(78, 45, 210, 1);
+    margin: 3%  3% 1% 3%;
+}
+.footBar p{
+    margin-top: 2%;
+    text-align: center;
+}
+
+

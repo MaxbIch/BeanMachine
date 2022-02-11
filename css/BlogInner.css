@@ -1,0 +1,219 @@
+.all{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+body{
+    font-family: 'Urbanist', serif  ;
+    background-color: #000000;
+    color: white;
+}
+.common{
+    height: 952px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("/img/BlogTop.png");
+}
+.nav_bar{
+    background-color: rgba(33, 25, 125, 1);
+    display: flex;
+    margin: 0 20% 2% 20%;
+    border-radius: 20px;
+}
+.nav_bar img{
+    margin-left: 23%;
+    margin-right: 17%;
+}
+.nav_bar p{
+    margin-top: 20px;
+    padding-left: 3%;
+    color: white;
+}
+.nav_bar a{
+    text-decoration: none;
+    color: white;
+}
+.nav_bar button{
+    background-color: black;
+    color: white;
+    margin-top: -8%;
+    margin-left: 3%;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+}
+
+.back a{
+    font-size: 18px;
+    color: rgba(208, 208, 249, 1);
+    text-decoration: none;
+    margin-left: 21%;
+}
+.back a img {
+    margin-right: 0.5%;
+}
+.back a:hover{
+    color: rgba(208, 208, 249, 1);
+    text-decoration: none;
+}
+.tabs{
+     display: flex;
+     margin-left: 38%;
+     color: white;
+ }
+.tab{
+    border: 1px solid white;
+    border-radius: 45px;
+    margin-top: 3%;
+    margin-left: 1%;
+    padding: 10px;
+}
+.headContZag{
+    text-align: center;
+    font-size: 80px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.headContTxt{
+    text-align: center;
+    margin-bottom: 3%;
+    color: rgba(233, 228, 254, 1);
+}
+.headContTxtt{
+    text-align: center;
+    margin-bottom: 2%;
+    color: rgba(233, 228, 254, 1);
+}
+.headContImg{
+    margin-left: 12.5%;
+}
+.info{
+    width: 45%;
+    margin-left: 28%;
+    margin-top: 20%;
+}
+.infoCont{
+    font-size: 16px;
+    margin-bottom: 2%;
+    color: rgba(208, 208, 249, 1);
+}
+.infoContBot{
+     margin-bottom: 3%;
+ }
+.infoContZag{
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    margin-bottom: 2%;
+    color: rgba(233, 228, 254, 1);
+}
+.infoContZagImg{
+    margin-top: 3%;
+}
+.spis{
+    margin-left: -2.5%;
+    margin-bottom: 2%;
+    font-size: 16px;
+    line-height: 24px;
+    color: #E9E4FE;
+}
+.FootInf{
+    width: 50%;
+    margin-left: 26%;
+    margin-top: 3%;
+}
+.FootInfCont{
+    padding: 40px 50px;
+    background: #4E2DD2;
+    border-radius: 32px;
+}
+.perv{
+    font-size: 32px;
+    margin-bottom: 5%;
+}
+.vtor{
+    font-size: 16px;
+}
+.FootinfoCont{
+    width: 45%;
+    margin-left: 28%;
+    margin-top: 2%;
+}
+.shareCont{
+    margin-top: 4%;
+    margin-bottom: 5%;
+    width: 15%;
+    margin-left: 40%;
+    display: flex;
+    background: #C8EBC4;
+    border-radius: 8px;
+    align-items: center;
+    padding: 16px 32px;
+}
+.shareContZag{
+    font-size: 16px;
+    line-height: 24px;
+    margin-right: 7%;
+    color: #010108;
+}
+.shareContImg{
+    margin-left: 8%;
+}
+.qqq{
+    padding-top: 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/img/BlogFoot.png");
+}
+footer{
+    width: 70%;
+    margin-left: 25%;
+    padding-bottom: 10%;
+}
+footer h2{
+    color: white;
+    font-size: 70px;
+}
+.footInfo{
+    margin-top: 7%;
+    padding-bottom: 1%;
+    display: block;
+    background-color: black;
+    width: 80%;
+    color: white;
+    font-size: 13px;
+    padding-top: 5%;
+    border-radius: 30px;
+}
+.matBoot1{
+    color: black;
+    width: 185px;
+    height: 54px;
+    background: #C8EBC4;
+    border-radius: 16px;
+    border: none;
+}
+.footInfo1{
+    display: flex;
+}
+.inf1{
+    margin-left: 7%;
+}
+.inf2{
+    margin-left: 30%;
+}
+.inf3{
+    margin-left: 10%;
+}
+.footBar{
+    text-align: center;
+    border-radius: 20px;
+    padding: 2px;
+    background-color: rgba(78, 45, 210, 1);
+    margin: 3%  3% 1% 3%;
+}
+.footBar p{
+    margin-top: 2%;
+    text-align: center;
+}

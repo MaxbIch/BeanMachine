@@ -1,0 +1,109 @@
+@media only screen and (max-width: 1700px ) {
+    .nav_bar img{
+        width: 200px;
+        height: 60px;
+        margin-left: 18%;
+        margin-right: 12%;
+    }
+    .txt1{
+        margin-left: 27%;
+    }
+    .txt2{
+        margin-left: 48%;
+    }
+    .cardInfo{
+        margin: 5% 0 10% 35%;
+    }
+    .topContHref{
+        margin-left: 35%;
+    }
+    .kvanrs {
+        width: 60%;
+        margin-left: 20%;
+    }
+    .mat1{
+        width: 400px;
+        height: 408px;
+        border-radius: 25px;
+        background-image: url("/img/InnerPagekvadr11.png");
+    }
+    .mat2{
+        width: 500px;
+        height: 450px;
+        border-radius: 25px;
+        background-image: url("/img/InnerPagekvadr22.png");
+    }
+    .mat3{
+        margin-left: 2%;
+        width: 400px;
+        height: 450px;
+        border-radius: 25px;
+        background-repeat: no-repeat;
+        background-image: url("/img/InnerPagekvadr33.png");
+    }
+    .mat{
+        margin-top: 10%;
+        margin-left: 10%;
+        line-height: 25px;
+        font-size: 12px;
+    }
+    .cust{
+        width: 60%;
+        margin-left: 20%;
+    }
+    .custCont1{
+        width: 450px;
+        height: 450px;
+        background-image: url("/img/InnerPageCust11.png");
+    }
+    .custCont2{
+        width: 450px;
+        height: 450px;
+        background-image: url("/img/InnerPageCust22.png");
+    }
+    .custCont3{
+        width: 900px;
+        height: 440px;
+        background-repeat: no-repeat;
+        background-image: url("/img/InnerPageCust33.png");
+    }
+    .rew{
+        max-width: 1100px;
+        margin-left: 13%;
+    }
+    .rewZag{
+        font-size: 30px;
+    }
+    .rewTxt{
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .rewCont2{
+        width: 450px;
+        height: 400px;
+        margin-left: 10%;
+    }
+    .rewCont3{
+        width: 1100px;
+        height: 504px;
+        border-radius: 45px;
+    }
+
+    .BeanContTxt {
+        margin-left: 10%;
+    }
+    .slTxt{
+        margin-left: 25%;
+    }
+    .carousel-item img{
+        margin-left: 30%;
+    }
+    .devCont{
+        margin-left: 5%;
+        width: 1000px;
+    }
+    .devCont img{
+        width: 900px;
+    }
+
+}

@@ -1,0 +1,420 @@
+.all{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+
+body{
+    background-size: cover;
+    background-image: url("/img/Bg.png");
+    background-repeat: no-repeat;
+    font-family: 'Urbanist';
+}
+
+
+
+header{
+    height: 2196px;
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("/img/Hero image.png");
+}
+.nav_bar{
+    background-color: rgba(33, 25, 125, 1);
+    display: flex;
+    margin: 0 10% 13% 10%;
+    border-radius: 20px;
+}
+.nav_bar img{
+    margin-left: 33%;
+    margin-right: 17%;
+}
+.nav_bar p{
+    margin-top: 20px;
+    padding-left: 3%;
+    color: white;
+}
+.nav_bar a{
+    text-decoration: none;
+    color: white;
+}
+.nav_bar button{
+    background-color: black;
+    color: white;
+    margin-top: -8%;
+    margin-left: 3%;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+}
+.head h1{
+    padding: 0 17% 0 17%;
+    font-size: 70px;
+    text-align: center;
+    color: white;
+}
+
+.head p{
+    font-size: 20px;
+    text-align: center;
+    color: rgba(208, 208, 249, 1);
+}
+.head button{
+    color: black;
+    padding: 16px 32px;
+    width: 185px;
+    height: 54px;
+    background: #C8EBC4;
+    border-radius: 16px;
+    margin-left: 43%;
+    border: none;
+}
+
+
+
+.infoHeadPage{
+    height: 1500px;
+
+}
+.ccc{
+    margin-top: 100px;
+    height: 830px;
+    background-image: url("/img/Illu.png");
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.infoHeadPage #ptxt{
+    margin:100px 30% 10% 30%;
+    font-size: 20px;
+    text-align: left;
+    color: rgba(208, 208, 249, 1);
+}
+.infoHeadPage h1{
+    font-size: 55px;
+    margin-left: 10%;
+    color: white;
+}
+.infoIcon{
+    margin-top: 5%;
+    color: white;
+    display: flex;
+}
+.infoIcon h5{
+    font-size: 25px;
+}
+.infoIcon p{
+    margin-top: -30px;
+    font-size: 15px;
+    color: rgba(208, 208, 249, 1);
+}
+.arrow{
+    border: none;
+    background-color: rgba(78, 45, 210, 1);
+    padding: 12px;
+    border-radius: 50px;
+}
+.infoIcon div{
+    margin-left: 10%;
+}
+
+
+
+
+.infoMain{
+    margin-top: 10%;
+}
+.infoMain h1{
+    font-size: 55px;
+    color: white;
+    text-align: center;
+}
+.mainCont{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.toog{
+    margin-top: 5%;
+    color: rgba(208, 208, 249, 1);
+    display: flex;
+
+}
+.firstBlock{
+    background-image: url("/img/Card.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 5%;
+    border-radius: 24px;
+}
+.firstBlock h2{
+    padding-top: 10%;
+    color: rgba(33, 25, 125, 1);
+}
+.firstBlockCont{
+    font-size: 13px;
+    display: flex;
+    width: 350px;
+    padding-top: 15%;
+    padding-bottom: 2%;
+    color: rgba(33, 25, 125, 1);
+}
+.firstBlockCont button {
+    margin: 100px 0 0 170px;
+}
+.secondBlock{
+    background-image: url("/img/Card1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 5%;
+    border-radius: 24px;
+    margin-left: 5%;
+
+}
+.secondBlockCont{
+    font-size: 10px;
+    display: flex;
+    width: 620px;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    color: rgba(208, 208, 249, 1);
+}
+.secondBlockCont button {
+    margin: 180px 0 0 380px;
+}
+.secondBlock h2{
+    padding-top: 5%;
+    color: white;
+}
+.thirdBlock{
+    margin-top: 5%;
+    padding-left: 5%;
+    background-image: url("/img/Card3.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 24px;
+}
+.thirdBlockCont{
+    font-size: 13px;
+    display: flex;
+    width: 1000px;
+    padding-top: 6%;
+    padding-bottom: 3%;
+    color: rgba(208, 208, 249, 1);
+}
+
+.thirdBlockCont button {
+    margin: 90px 0 0 680px;
+}
+.thirdBlock h2{
+    color: white;
+    padding-top: 5%;
+}
+
+
+
+.rows{
+    width: 60%;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+.row2{
+    margin-top: 3%;
+}
+
+.row3{
+    margin-top: 3%;
+}
+
+
+
+.animationBlog{
+    margin-top: 200px;
+    margin-bottom: 10%;
+}
+.planer{
+    width: 1400px;
+    margin-left: -10%;
+}
+.animationBlog h1{
+    margin-left: 10%;
+    font-size: 60px;
+    color: white;
+}
+.animationBlog p{
+    color: rgba(208, 208, 249, 1);
+    font-size: 18px;
+    line-height: 32px;
+}
+
+
+
+.kvanrs {
+    position: center;
+    display: block;
+    width: 60%;
+    margin-left: 20%;
+    margin-bottom: 10%;
+}
+.onetwo {
+    display: flex;
+}
+.threefour{
+    display: flex;
+}
+.matBoot{
+    color: black;
+    width: 185px;
+    height: 54px;
+    background: #C8EBC4;
+    border-radius: 16px;
+    /*margin-left: 5%;*/
+    border: none;
+}
+.mat{
+    width: 500px;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-top: 5%;
+    background-color: white;
+
+}
+.mat img{
+    padding-top: 20px;
+    margin-bottom: -10px;
+    border-radius: 20px;
+}
+.mat1{
+    width: 500px;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.mat1{
+    color: white;
+}
+.top{
+    display: flex;
+}
+.top button{
+    margin-top: 2%;
+    margin-left: 100px;
+}
+.top h3{
+    font-size: 30px;
+    color: rgba(33, 25, 125, 1);
+    padding-left: 10%;
+}
+
+.mat p{
+    font-size: 19px;
+    color: rgba(33, 25, 125, 1);
+    padding-left: 10%;
+}
+.arrow1{
+    border: none;
+    background-color: rgba(78, 45, 210, 1);
+    width: 50px;
+    height: 50px;
+    margin-top: 40px;
+    padding-bottom: 50px;
+    border-radius: 50px;
+}
+.x button{
+    border: none;
+    background-color: rgba(78, 45, 210, 1);
+    width: 50px;
+    height: 50px;
+    margin-bottom: -80px;
+    margin-left: 250px;
+    padding-bottom: 50px;
+    border-radius: 50px;
+}
+
+
+
+
+.InfoFoot{
+    background-image: url("/img/Illus.png");
+    background-size: cover;
+    /*background-position: bottom;*/
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    height: 1175px;
+}
+.infoFoot{
+    margin-left: 14%;
+    display: flex;
+}
+.infoFoot h1{
+    font-size: 64px;
+    color: white;
+}
+.matBoot1{
+    color: black;
+    width: 185px;
+    height: 54px;
+    background: #C8EBC4;
+    border-radius: 16px;
+    border: none;
+}
+.footZag{
+    display: block;
+}
+.infoFoot p{
+    font-size: 16px;
+    color: rgba(208, 208, 249, 1);
+    margin-top: 4%;
+    margin-left: 15%;
+    float: right;
+}
+
+
+
+
+.qqq{
+    background-color: #151a6d;
+}
+footer{
+    margin-top: -59px;
+    margin-left: 20%;
+    padding-bottom: 100px;
+}
+footer h2{
+    color: white;
+    font-size: 70px;
+}
+.footInfo{
+    margin-top: 5%;
+    padding-bottom: 1%;
+    display: block;
+    background-color: black;
+    width: 80%;
+    color: white;
+    font-size: 13px;
+    padding-top: 5%;
+    border-radius: 30px;
+}
+.footInfo1{
+    display: flex;
+}
+.inf1{
+    margin-left: 7%;
+}
+.inf2{
+    margin-left: 30%;
+}
+.inf3{
+    margin-left: 10%;
+}
+.footBar{
+    text-align: center;
+    border-radius: 20px;
+    padding: 2px;
+    background-color: rgba(78, 45, 210, 1);
+    margin: 3%  3% 1% 3%;
+}
+

@@ -1,0 +1,49 @@
+@media only screen and (max-width: 1500px ) {
+    body{
+        background-image: url("/img/Bg1.png");
+    }
+    header{
+        height: 1647px;
+        background-position: bottom;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-image: url("/img/Hero image1.png");
+    }
+    .nav_bar img{
+        margin-left: 27%;
+        margin-right: 15%;
+    }
+    .ccc{
+        margin-top: 100px;
+        height: 623px;
+        background-image: url("/img/Illu1.png");
+        background-position: bottom;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .mainCont{
+        width: 80%;
+        margin-left: 10%;
+    }
+    .rows{
+        width: 80%;
+        margin-left: 15%;
+    }
+    .planer{
+        width: 800px;
+    }
+    .kvanrs{
+        width: 80%;
+        margin-left: 10%;
+    }
+    .InfoFoot{
+        background-image: url("/img/Illus1.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: 100px;
+        height: 881px;
+    }
+    .infoFoot h1{
+        font-size: 50px;
+    }
+}
